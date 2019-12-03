@@ -7,7 +7,7 @@ Budgeting Web App using JavaScript, CSS3 and HTML5
 * The percentages next to the expenses show the percentage of that expense in comparison to the total of income
 * Total income, total expenses and total remaining are shown at the top of the app.
 
-**Enjoy!!
+**Enjoy!!**
 
 .
 
